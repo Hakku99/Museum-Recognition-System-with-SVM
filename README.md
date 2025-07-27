@@ -1,5 +1,9 @@
 ## Museum recognition system with Support Vector Machine
 
+1. Recognize which museum the query images are pointing to built with Support Vector Machine.
+2. Accuracy: 96%
+3. Training set: 90 images taken from 3 different museums (UMNO, Maritime, Youth) in different durations.
+
 #### What is Support Vector Machine (SVM)?
 A **supervised** machine learning algorithm used for both classification and regression tasks (predicting continuous outputs rather than discrete classes).
 It finds a hyperplane (decision boundary / line that divides data) or set of hyperplanes that best separates different classes of data points in a high-dimensional space.
